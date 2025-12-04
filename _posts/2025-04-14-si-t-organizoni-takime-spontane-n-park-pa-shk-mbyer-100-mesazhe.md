@@ -4,6 +4,7 @@ title: Si të Organizoni Takime Spontane në Park pa Shkëmbyer 100 Mesazhe
 subtitle: Zgjidhja e Shpejtë dhe Falas për Prindërit që Duan Lojëra në Grup
 tags: [organizim eventesh, takime prindërish]
 author: ijoin.app
+language: sq
 ---
 # Mbledhja e Prindërve dhe Fëmijëve- Lehtë dhe Shpejt me [ijoin.app](https://ijoin.app/index-sq.html)
 

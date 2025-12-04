@@ -4,6 +4,7 @@ title: Si të Mbledhësh Pjesëmarrës për një Lexim Publik - Fjala kyçe-Rreg
 subtitle: Organizimi i Evenimenteve Komunitare Pa Kërkesa Regjistrimi dhe Llogarie
 tags: [organizim eventesh, komunitet]
 author: ijoin.app
+language: sq
 ---
 
 # Mblidhni Pjesëmarrës Maksimalë në Temat tuaja - Pa Regjistrime të Mërzitshme

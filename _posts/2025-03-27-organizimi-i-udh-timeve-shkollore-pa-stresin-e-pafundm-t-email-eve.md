@@ -4,6 +4,7 @@ title: Organizimi i Udhëtimeve Shkollore Pa Stresin e Pafundmë të Email-eve
 subtitle: Si të menaxhoni Fahrgemeinschaften për ekskursione me një link të vetëm
 tags: [Organizimi i udhëtimeve, Fahrgemeinschaften]
 author: ijoin.app
+language: sq
 ---
 # Organizimi i Udhëtimeve Shkollore Pa Stresin e Pafundmë të Email-eve
 

@@ -4,6 +4,7 @@ title: Si e Organizoni Grupin Studimor për Provimin në 3 Minuta
 subtitle: Harrojini Mesazhet e Pafundme- Mblidhni Grupin Studimor Shpejt dhe Pa Stres
 tags: [organizim eventesh, grup studimor]
 author: ijoin.app
+language: sq
 ---
 
 # Mbledhja e Studentëve për Sesionin Kritik Studimor- Lehtësisht

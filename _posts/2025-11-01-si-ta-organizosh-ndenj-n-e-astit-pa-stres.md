@@ -4,6 +4,7 @@ title: Si ta Organizosh Ndenjën e Çastit Pa Stres
 subtitle: Mbledhja e miqve për një birrë- Zgjidhja e shpejtë dhe pa regjistrim
 tags: [organizim eventesh, mbledhje miqsh]
 author: ijoin.app
+language: sq
 ---
 # Mblidhni Miqtë për Një Birrë- Zgjidhja e Shpejtë e ijoin.app
 

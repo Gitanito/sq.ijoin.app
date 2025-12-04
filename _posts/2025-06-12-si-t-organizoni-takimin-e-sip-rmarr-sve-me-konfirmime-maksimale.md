@@ -4,6 +4,7 @@ title: Si të Organizoni Takimin e Sipërmarrësve me Konfirmime Maksimale
 subtitle: Harrojeni Emailet e Pafundme dhe Merrni Përgjigje në Kohë Reale
 tags: [organizim eventesh, sipërmarrje lokale]
 author: ijoin.app
+language: sq
 ---
 
 # Takimi i Sipërmarrësve Lokalë- Më në Fund, Pjesëmarrje 100% pa Fërkime

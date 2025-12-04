@@ -4,6 +4,7 @@ title: Si të Koordinoni Lehtësisht Vullnetarët për Panairin e Shkollës
 subtitle: Mbledhja e ekipit perfekt për çdo ngjarje shkollore pa stres apo regjistrime
 tags: [Koordinim Vullnetarësh, Organizim Panairi]
 author: ijoin.app
+language: sq
 ---
 
 # Zgjidhja e Thjeshtë për Koordinimin e Vullnetarëve në Panairin e Shkollës

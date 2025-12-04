@@ -4,6 +4,7 @@ title: Si Të Organizosh After-Work Drinks Pa Stres dhe Pa Regjistrime
 subtitle: Rrit Pjesëmarrjen në Takimet Kolegiale- Thjesht, Shpejt dhe Falas
 tags: [organizim eventesh, takime kolegiale]
 author: ijoin.app
+language: sq
 ---
 
 # Si Të Organizoni Shpejt dhe Lehtë After-Work Drinks (Aperitivin Pas Pune)

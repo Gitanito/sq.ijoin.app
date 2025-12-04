@@ -4,6 +4,7 @@ title: Si e Thjeshtoni Organizimin e Makinave të Përbashkëta Pa Stres
 subtitle: Zgjidhja për Koordinimin e Transportit në Grup- Shpejt dhe Pa Regjistrim
 tags: [Furgonat e Përbashkët, Organizim Eventesh]
 author: ijoin.app
+language: sq
 ---
 
 # Harrojeni Zinxhirin e Mesazheve- Koordinoni Menjëherë Furgonat e Përbashkëta

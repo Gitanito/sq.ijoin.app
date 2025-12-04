@@ -4,6 +4,7 @@ title: Si t'i Grumbullosh Pjesëmarrësit për Trajnimet e Komunitetit- Thjesht 
 subtitle: Rritni pjesëmarrjen në Skill-Share dhe Eventet Lokale me një Link të Vetëm
 tags: [organizim eventesh, skill-share]
 author: ijoin.app
+language: sq
 ---
 
 # Mënyra e Re për të Menaxhuar Anëtarësimin në Sesionet tuaja Skill-Share Lokale

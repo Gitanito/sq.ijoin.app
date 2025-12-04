@@ -4,6 +4,7 @@ title: Si të Organizoni Pre-Party-n Perfekte Para Koncertit
 subtitle: Ftoni Lehtësisht Miqtë dhe Merrni Përgjigje të Shpejta Pa Asnjë Regjistrim
 tags: [organizim eventesh, ftesa pa login]
 author: ijoin.app
+language: sq
 ---
 
 # Harrojeni Kaosin- Ftesat Për Pre-Party Bëhen Të Menjëhershme me [ijoin.app](https://ijoin.app/index-sq.html)

@@ -4,6 +4,7 @@ title: Si të Organizoni Mbledhjen e Alumnëve Pa Asnjë Stres
 subtitle: Maksimalizoni Pjesëmarrjen në Stammtisch me Lidhjen Magjike
 tags: [organizim eventesh, Alumni Stammtisch]
 author: ijoin.app
+language: sq
 ---
 # Si të Siguroni Pjesëmarrjen Maksimale në Takimet e Alumnëve Tuaj
 

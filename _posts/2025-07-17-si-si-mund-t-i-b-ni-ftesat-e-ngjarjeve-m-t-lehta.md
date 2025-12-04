@@ -4,6 +4,7 @@ title: Si si mund t'i bëni ftesat e ngjarjeve më të lehta
 subtitle: Organizoni feste, takime apo aktivitete shkollore pa stres dhe pa regjistrime
 tags: [organizim eventesh, ftesa online]
 author: ijoin.app
+language: sq
 ---
 
 # Harrojeni Letrat dhe Regjistrimet e Vështira- Zgjidhja për Ftesat e Eventeve

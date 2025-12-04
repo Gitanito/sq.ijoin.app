@@ -4,6 +4,7 @@ title: Organizimi i Klubit të Librit- Thjeshtësia Që Maksimizon Pjesëmarrjen
 subtitle: Si të merrni përgjigje të shpejta nga anëtarët e klubit pa regjistrime të bezdisshme
 tags: [organizim eventesh, klub libri]
 author: ijoin.app
+language: sq
 ---
 
 # Mbledhjet e Klubit të Librit- Merrni Konfirmime Të Sigurta Pa Stresin e Log-in-it

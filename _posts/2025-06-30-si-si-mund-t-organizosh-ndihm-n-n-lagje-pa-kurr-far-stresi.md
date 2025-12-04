@@ -4,6 +4,7 @@ title: Si si mund të organizosh ndihmën në lagje pa kurrëfarë stresi
 subtitle: Mbledhja e vullnetarëve për punë në komunitet bëhet shpejt dhe lehtë
 tags: [organizim eventesh, ndihmë në lagje]
 author: ijoin.app
+language: sq
 ---
 # Si të mbledhësh vullnetarë për punë në lagje me një klikim të vetëm
 

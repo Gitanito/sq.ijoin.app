@@ -4,6 +4,7 @@ title: Si si organizon evente pa stres- 100% falas dhe pa regjistrim
 subtitle: Harrojini emailet e pafundme- menaxhoni pjesëmarrësit me një link të vetëm
 tags: [organizim eventesh, menaxhim pjesëmarrësish]
 author: ijoin.app
+language: sq
 ---
 # Si t’i ktheni ftesat në pjesëmarrje maksimale- Zgjidhja e thjeshtë për çdo organizator
 

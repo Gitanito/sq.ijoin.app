@@ -4,6 +4,7 @@ title: Si si të Mbledhësh Feedback Shpejtë- Pa Krijim Llogarie
 subtitle: Zgjidhja e Thjeshtë për Sesionet e Feedback-ut të Produkteve
 tags: [organizim eventesh, feedback produkti]
 author: ijoin.app
+language: sq
 ---
 
 # Zbuloni Menjëherë Çfarë Mendojnë Përdoruesit për Prototipin Tuaj

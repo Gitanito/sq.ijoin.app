@@ -4,6 +4,7 @@ title: Si ta Kthesh Konfirmimin e Pjesëmarrjes në Sportin e Fëmijëve në nj�
 subtitle: Koordinimi i Trajnimeve- Lëreni stresin e listave të pranisë pas shpine
 tags: [organizim eventesh, sport fëmijësh]
 author: ijoin.app
+language: sq
 ---
 
 # Mënyra e Re për të Menaxhuar Praninë në Stërvitjet e Ekipit me 1 Klikim

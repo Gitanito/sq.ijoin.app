@@ -4,6 +4,7 @@ title: Si si organizon Darka Pop-up Te Fshehta Pa Stres Regjistrimi
 subtitle: Maksimalizoni pjesëmarrjen në eventet tuaja ekskluzive me një lidhje të vetme
 tags: [organizim eventesh, pop-up dinner]
 author: ijoin.app
+language: sq
 ---
 
 # Si të Krijoni Një Përvojë Darke Pop-up të Paharrrueshme (Dhe Pa Fërkime)

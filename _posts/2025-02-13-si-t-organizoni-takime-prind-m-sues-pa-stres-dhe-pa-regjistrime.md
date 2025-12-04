@@ -4,6 +4,7 @@ title: Si të Organizoni Takime Prind-Mësues pa Stres dhe pa Regjistrime
 subtitle: Zgjidhja e Thjeshtë për Rezervimin e Orarëve për Prindërit
 tags: [organizim eventesh, takime prind-mësues]
 author: ijoin.app
+language: sq
 ---
 # Thuaj Lamtumirë Kaosit të Fletëve të Regjistrimit- Organizimi i Takimeve Prind-Mësues Bëhet i Lehtë
 

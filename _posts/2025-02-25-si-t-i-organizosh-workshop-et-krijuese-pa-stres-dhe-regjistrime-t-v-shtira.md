@@ -4,6 +4,7 @@ title: Si t'i Organizosh Workshop-et Krijuese pa Stres dhe Regjistrime të Vësh
 subtitle: Rrit pjesëmarrjen në eventet e tua me një link të thjeshtë
 tags: [organizim eventesh, workshop pa regjistrim]
 author: ijoin.app
+language: sq
 ---
 # Mbledhja e Artistëve- Si të Thjeshtosh Regjistrimin për Workshop-et Krijuese
 

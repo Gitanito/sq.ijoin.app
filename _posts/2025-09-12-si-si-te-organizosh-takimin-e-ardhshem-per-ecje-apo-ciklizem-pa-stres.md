@@ -4,6 +4,7 @@ title: Si si te organizosh takimin e ardhshem per ecje apo ciklizem pa stres
 subtitle: Merrni pergjigje te shpejta dhe maksimale per eventet tuaja ne natyre
 tags: [organizim eventesh, ciklizem]
 author: ijoin.app
+language: sq
 ---
 
 # Lëreni pas ankthin e organizimit- Mblidhni ekipin tuaj të aventurës me lehtësi

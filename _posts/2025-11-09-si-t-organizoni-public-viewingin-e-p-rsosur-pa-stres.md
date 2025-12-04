@@ -4,6 +4,7 @@ title: Si të Organizoni Public Viewingin e Përsosur pa Stres
 subtitle: Mbledhja e shokëve për ndeshjen e madhe nuk ka qenë kurrë kaq e thjeshtë
 tags: [organizim eventi sportiv, konfirmim pjesëmarrje]
 author: ijoin.app
+language: sq
 ---
 
 # Mblidhni Shokët për Ndeshjen- Si të Keni Konfirmim Pjesëmarrje 100%

@@ -4,6 +4,7 @@ title: Si të Organizoni një Meetup Profesional Pa Asnjë Fërkim
 subtitle: Rritni Pjesëmarrjen në Takimet e Rrjetit B2B me Lidhjen e Vetme Magjike
 tags: [organizim eventesh, rrjetëzim profesional]
 author: ijoin.app
+language: sq
 ---
 
 # Lidhuni me Profesionistët- Lehtësimi i Organizimit të Meetup-eve të Industrisë

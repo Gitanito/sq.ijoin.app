@@ -4,6 +4,7 @@ title: Ftesat për Beta Testin- Si të Kesh Pjesëmarrje Maksimale
 subtitle: Mblidh Testuesit e Produktit Tënd Pa Asnjë Fërkim apo Regjistrim të Mërzitshëm
 tags: [organizim eventesh, beta test]
 author: ijoin.app
+language: sq
 ---
 
 # Lançimi i Produktit Tënd- Mblidh Testuesit e Duarve Pa Asnjë Pengesë

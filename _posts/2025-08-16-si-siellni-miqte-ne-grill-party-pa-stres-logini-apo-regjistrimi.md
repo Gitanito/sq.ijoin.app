@@ -4,6 +4,7 @@ title: Si siellni miqte ne Grill-Party pa stres Logini apo Regjistrimi
 subtitle: Organizimi i shpejte i eventeve- si te maksimizoni pjesemarrjen pa komplikime
 tags: [organizim eventesh, ijoin.app]
 author: ijoin.app
+language: sq
 ---
 # Si te organizoni nje Grill-Party spontane me pjesemarrje maksimale falas
 

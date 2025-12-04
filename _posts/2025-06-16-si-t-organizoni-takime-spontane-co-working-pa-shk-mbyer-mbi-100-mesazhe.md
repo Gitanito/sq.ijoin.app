@@ -4,6 +4,7 @@ title: Si të Organizoni Takime Spontane Co-Working Pa Shkëmbyer Mbi 100 Mesazh
 subtitle: Maksimizoni pjesëmarrjen në takimet tuaja të pavarura me një zgjidhje të thjeshtë
 tags: [Organizim Eventesh, Co-Working Spontan]
 author: ijoin.app
+language: sq
 ---
 
 # Zgjidhni Kaosin e Planifikimit të Takimeve Co-Working me Një Lidhje Të Vetme

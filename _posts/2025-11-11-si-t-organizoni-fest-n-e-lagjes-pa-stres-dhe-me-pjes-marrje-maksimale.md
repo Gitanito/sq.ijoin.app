@@ -4,6 +4,7 @@ title: Si të Organizoni Festën e Lagjes Pa Stres dhe Me Pjesëmarrje Maksimale
 subtitle: Mjeti Falas që E Bën Organizimin e Eventeve Komunitare Një Loje Fëmijësh
 tags: [organizim eventesh, festa lagjes]
 author: ijoin.app
+language: sq
 ---
 
 # Zgjidhja për Pjesëmarrje Maksimale në Festën e Lagjes

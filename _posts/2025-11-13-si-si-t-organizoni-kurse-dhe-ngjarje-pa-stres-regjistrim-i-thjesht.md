@@ -4,6 +4,7 @@ title: Si si të organizoni kurse dhe ngjarje pa stres- Regjistrim i thjeshtë
 subtitle: Mbledhja e regjistrimeve për kurset tuaja nuk ka qenë kurrë më e lehtë
 tags: [organizim eventesh, regjistrim kursi]
 author: ijoin.app
+language: sq
 ---
 # Si të mbledhësh regjistrime për kursin tënd të ri të qeramikës apo çdo ngjarje tjetër
 

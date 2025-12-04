@@ -4,6 +4,7 @@ title: Si të Organizoni Ditëlindjen e Fëmijës Pa Stresin e Ftesave
 subtitle: Merrni Përgjigje të Shpejta dhe Të Qarta për Festën e Ardhshme- Një Udhëzues për Prindërit
 tags: [organizim eventesh, festa ditëlindjeje]
 author: ijoin.app
+language: sq
 ---
 
 # Merrni Konfirmimin e të Ftuarve në 1 Minutë- Zgjidhja për Organizimin e Festave

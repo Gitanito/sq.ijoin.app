@@ -4,6 +4,7 @@ title: Piknik Spontane i Park - Ftesa Që Funksionon Vërtet
 subtitle: Si të organizoni një event të shpejtë pa e lodhur askënd me regjistrime
 tags: [organizim eventesh, ftesa spontane]
 author: ijoin.app
+language: sq
 ---
 
 # Organizimi i Eventeve Spontane- Mënyra e Re për të Mbledhur Shokët në Park
